@@ -1,4 +1,4 @@
-## 👽🖖🏾 Welcome to the Digital Dojo. 🖖🏾👽
+## 👽🖖🏾 Welcome to the Digital Dojo 🖖🏾👽
 
 This is where my Python journey begins - the place where I sharpen my tools, log my grind, and build my way into the future I own. 
 
